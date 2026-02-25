@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @K4CP3RR0
 - 👀 I’m interested in Programming, Japan Cars and Music
-- : 🖥️ I’m currently learning React Native, MongoDB and CyberSecurity
-- 💞️ I’m looking to collaborate on projects
+- : 🖥️ I’m currently learning C#, .NET, MongoDB and CyberSecurity
 - 💌 Reach me on email kacper.cichorski@gmail.com
 
 <!---
